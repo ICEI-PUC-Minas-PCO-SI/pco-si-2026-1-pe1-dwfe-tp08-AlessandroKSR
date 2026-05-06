@@ -5,8 +5,8 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Alessandro Kennedy Soares Ribeiro
+- Matricula: 928578
 
 ## Prints do console do navegador
 
